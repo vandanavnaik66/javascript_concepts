@@ -1,0 +1,6 @@
+/* if you only keep body{} it will take the styling for only main container So add * to all elements */
+body *{
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid red;
+}
